@@ -1,0 +1,9 @@
+[package]
+name = "rust-exercises"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-sdk = "2.0.5"
+dotenv = "0.15.0"
+solana-client = "2.0.5"
